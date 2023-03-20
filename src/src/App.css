@@ -1,0 +1,27 @@
+.search {
+    position: absolute;
+    display: flex;
+    top: 20px;
+    right: 60px;
+    color: #0d4f86;
+}
+
+.home {
+    position: absolute;
+    display: flex;
+    font-size: 30px;
+    top: 15px;
+    right: 10px;
+    color: grey;
+}
+
+.search>a>svg {
+    font-size: 50px;
+    color: #0d4f86;
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
