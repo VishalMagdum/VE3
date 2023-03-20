@@ -27,7 +27,7 @@
     justify-content: center;
 }
 
-img {
+.image>img {
     width: 550px;
     display: block;
     height: 500px;

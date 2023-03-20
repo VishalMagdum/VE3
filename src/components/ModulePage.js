@@ -7,7 +7,7 @@ function ModulePage({ data }) {
     return (
         <>
             <div className='homeContainer'>
-                <div><img src={home_png} style={{ width: "200px" }} /></div>
+                <div><div className='image'><img src={home_png} /></div></div>
                 <div>
                     <ul>
                         {data && data.map((item, index) => (
